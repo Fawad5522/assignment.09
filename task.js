@@ -8,11 +8,13 @@
 
 // 2. ARRAY ELEMENTS KA SUM PRINT KARE
 
-
+// var num;
 //  var sum = 0;
+//  var userInput = [];
 //  for (var c =0; c < 5; c++) {
 //   var  userInput = +prompt("Enter 5 No's");
-//     sum = sum + userInput[c];
+//     num = num.push(userInput)
+ 
 //  }
 //  console.log(sum);
 
@@ -27,8 +29,9 @@
 //   if (userInput[c] > lar ) {
 //     lar = userInput[c];
 //   }
+// }
 //   console.log(lar);
-//   }
+  
 
 // 4. USER SE STRING LE AND USKO ULTA PRINT KARE
 
@@ -38,9 +41,9 @@
 
 // 5 . FACTORIAL DESCRIPTION:
 
-var userInput = +prompt("Enter Any Number To Print Its Factorial");
-var factorial = 1;
-  for (var c = userInput; c >= 1; c++) {
-     factorial = factorial * userInput;
-  }
-  console.log(factorial);
+// var userInput = +prompt("Enter Any Number To Print Its Factorial");
+// var factorial = 1;
+//   for (var c = userInput; c > 1; c--) {
+//      factorial = factorial * c;
+//   }
+//   console.log(factorial);
